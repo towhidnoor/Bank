@@ -133,9 +133,7 @@ img {
   height: 4.5rem;
   transition: all 0.3s;
 }
-.nav h2 {
-  float: left;
-}
+
 .nav__links {
   display: flex;
   align-items: center;
